@@ -386,9 +386,6 @@ The complete recommendation system demonstrates:
 ### 6.3 Files Generated
 
 - `master.ipynb`: Main notebook with all results
-- `bandit_results.png`: Performance comparison plots
-- `q_values_analysis.png`: Learned Q-value visualizations
-
 ---
 
 ## 7. Submission Materials
