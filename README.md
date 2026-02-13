@@ -400,12 +400,4 @@ The complete recommendation system demonstrates:
 
 ---
 
-## 8. References
-
-- Sutton & Barto: "Reinforcement Learning: An Introduction" (2018)
-- Tewari & Murphy: "From Bandits to Monte-Carlo Tree Search" (2017)
-- Li et al.: "A Contextual-Bandit Approach to Personalized News Recommendation" (2010)
-
----
-
 **Project Completed:** February 2026
